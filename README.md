@@ -1,6 +1,6 @@
 # proyecto_prueba_noviembre_2025
 Ejemplo de creación de un repositorio inicial
-
+ hola
 # README – Guía para la Creación de un Repositorio en GitHub
 
 Este documento describe paso a paso el proceso para crear, configurar y documentar un repositorio en GitHub de forma correcta y profesional.
